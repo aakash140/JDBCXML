@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employee>
+<id>1234</id>
+<salary>50000</salary>
+<DOB>20/11/1991</DOB>
+</Employee>
